@@ -1,1 +1,1 @@
-# digital-marketting-
+# digital-marketing
