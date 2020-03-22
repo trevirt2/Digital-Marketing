@@ -32,11 +32,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+header {
+    float: right;
+    margin:7px 0;
+}
+.header ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -190,6 +194,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Benefits Style Ends */
 
 .footer {
     padding: 30px;
@@ -201,4 +206,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/* Benefits Style Start */
